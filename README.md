@@ -1,6 +1,6 @@
-## Your Name
+## Chris Russell
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. Previously: digital marketing, analytics, business change & strategy.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2018 to Aug 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,52 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Statistics - Open University (Sept 2016 to May 2017)
 
-#### Any other qualifications
+- Summarising data/examining relationships
+- Probability
+- Testing hypotheses
+
+#### Google Analytics Individual Qualification Google (Oct 2013)
+- Reporting & Analysis
+- Data capture processes
+
+#### Data Analytics - General Assembly (Jan 2016 to Apr 2016)
+- SQL
+- Excel
+- Data Science Studio
+
+#### Politics & German (2:2) - Loughborough University (Sept 1995 to June 1999)
+- Year spent teaching English in Austria, in 2 schools
+- Outside studies: Student Union: Head of Sales
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Royal Shakespeare Company (May 2016 to Mar 2018)**
+*Digital consultant*
+
+**Kainos (on behalf of HM Passport Office) (Nov 2017 to Apr 2018)**
+*Performance Analyst*
+
+**The Money Advice Service (Sept 2017 to Nov 2017)**
+*Digital Analytics Consultant*
+
+**Ministry of Justice (Apr 2017 to Aug 2017)**
+*Head of Performance (contract)*
+
+**Pension Wise (a divsion of DWP) (Aug 2016 to Apr 2017)**
+*Senior digital analyst*
+
+**Agilesphere (on behalf of the MoJ) (Feb 2016 to Jul 2016)**
+*Performance Analyst*
+
+**Government Digital Services (GDS) (Mar 2015 to Feb 2016)**
+
+*Senior Performance Analyst*
+
+_(More available on request)_
+
+
+
+
