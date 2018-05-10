@@ -75,11 +75,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Performance Analyst*
 
 **Government Digital Services (GDS) (Mar 2015 to Feb 2016)**
-
 *Senior Performance Analyst*
 
 _(More available on request)_
-
-
-
-
