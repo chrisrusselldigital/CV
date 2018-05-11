@@ -1,6 +1,6 @@
 ## Chris Russell
 
-[Education]( [Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
+[Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
 
 I'm a passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. 
 
