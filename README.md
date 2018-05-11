@@ -77,3 +77,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Senior Performance Analyst*
 
 _(More available on request or see my [LinkedIn](http://www.linkedin.com/in/chrisrussell1/) profile.)_
+
+## Interests
+Outside work, I enjoy playing guitar, follow Walsall FC and enjoy spending time with my family. 
