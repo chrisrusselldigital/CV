@@ -1,6 +1,6 @@
 ## Chris Russell
 
-[Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com)
+[Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
 
 I'm a passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. 
 
@@ -27,16 +27,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (May 2018 to Aug 2018)
+#### Makers Academy (Presently pre-course)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby
+- TDD
+- Problem solving
 
 
 #### Statistics - Open University (Sept 2016 to May 2017)
@@ -81,4 +76,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Government Digital Services (GDS) (Mar 2015 to Feb 2016)**</br>
 *Senior Performance Analyst*
 
-_(More available on request)_
+_(More available on request or see my [LinkedIn](http://www.linkedin.com/in/chrisrussell1/) profile.)_
