@@ -1,6 +1,10 @@
 ## Chris Russell
 
-A passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. Previously: digital marketing, analytics, business change & strategy.
+[Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com)
+
+I'm a passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. 
+
+Previously my career has focused on digital marketing, including Adwords, SEO and email. Over time, I found myself specialising more and more in analytics and data, as well as the accompanying business change & strategy. Working with developers day-to-day (and having build my first webpage back in 1996) I could no longer resist absorbing myself in code.
 
 ## Skills
 
@@ -56,25 +60,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Royal Shakespeare Company (May 2016 to Mar 2018)**
+**Royal Shakespeare Company (May 2016 to Mar 2018)**</br>
 *Digital consultant*
 
-**Kainos (on behalf of HM Passport Office) (Nov 2017 to Apr 2018)**
+**Kainos (on behalf of HM Passport Office) (Nov 2017 to Apr 2018)**</br>
 *Performance Analyst*
 
-**The Money Advice Service (Sept 2017 to Nov 2017)**
+**The Money Advice Service (Sept 2017 to Nov 2017)**</br>
 *Digital Analytics Consultant*
 
-**Ministry of Justice (Apr 2017 to Aug 2017)**
+**Ministry of Justice (Apr 2017 to Aug 2017)**</br>
 *Head of Performance (contract)*
 
-**Pension Wise (a divsion of DWP) (Aug 2016 to Apr 2017)**
+**Pension Wise (a divsion of DWP) (Aug 2016 to Apr 2017)**</br>
 *Senior digital analyst*
 
-**Agilesphere (on behalf of the MoJ) (Feb 2016 to Jul 2016)**
+**Agilesphere (on behalf of the MoJ) (Feb 2016 to Jul 2016)**</br>
 *Performance Analyst*
 
-**Government Digital Services (GDS) (Mar 2015 to Feb 2016)**
+**Government Digital Services (GDS) (Mar 2015 to Feb 2016)**</br>
 *Senior Performance Analyst*
 
 _(More available on request)_
