@@ -1,6 +1,6 @@
 ## Chris Russell
 
-[Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
+[Education]( [Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
 
 I'm a passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. 
 
@@ -10,7 +10,7 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 
 #### Software development
 
-- Coming soon!
+- [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
 
 
 ## Education
