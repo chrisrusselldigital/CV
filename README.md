@@ -10,8 +10,9 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 
 #### Software development
 
+- Basic Ruby/Github
+- Pairing
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
-
 
 ## Education
 
