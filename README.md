@@ -2,15 +2,18 @@
 
 [Github](http://www.github.com/chrisrusselldigital) | [LinkedIn](http://www.linkedin.com/in/chrisrussell1/)
 
-I'm a passionate digital professional with a breadth and depth of experience. Currently studying software development at Makers Academy. 
+I'm a passionate digital professional with a breadth and depth of experience. Having completed a 12 intensive software development at Makers Academy, I'm now looking for my first role.
 
-Previously my career has focused on digital marketing, including Adwords, SEO and email. Over time, I found myself specialising more and more in analytics and data, as well as the accompanying business change & strategy. Working with developers day-to-day (and having build my first webpage back in 1996) I could no longer resist absorbing myself in code.
+Previously my career has focused on digital marketing, including Adwords, SEO and email. Over time, I found myself specialising more and more in analytics and data, as well as the accompanying business change & strategy. Working with developers day-to-day (and having build my first webpage back in 1996) I could no longer resist the urge to make things.
 
 ## Skills
 
 #### Software development
 
-- Basic Ruby/Github
+- Ruby
+- Ruby on Rails
+- Sinatra
+- Github
 - Pairing
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
 
@@ -18,10 +21,9 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 
 #### Makers Academy (Presently pre-course)
 
-- Ruby
+- Ruby/Rails
 - TDD
 - Problem solving
-
 
 #### Statistics - Open University (Sept 2016 to May 2017)
 
