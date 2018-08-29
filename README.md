@@ -10,18 +10,24 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 
 #### Software development
 
+- Git/Github
+- TDD using Rspec
 - Ruby
 - Ruby on Rails
 - Sinatra
 - Github
+- SQL
 - Pairing
 - Building software in teams
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
+- Javascript with Jasmine
+- HTML/CSS
 
 #### Selected example repos
 
 - ["Spell the words"](https://github.com/chrisrusselldigital/spell-the-words) A simple terminal app I made game my daughter used to help her learn to spell her school words
 - [Rock,Paper,Scissors](https://github.com/chrisrusselldigital/rps-challenge) Built in Sinatra
+- [Twitter clone](https://github.com/chrisrusselldigital/chitter-challenge) 
 
 
 ## Education
