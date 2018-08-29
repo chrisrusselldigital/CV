@@ -38,6 +38,9 @@ Previously my career has focused on digital Analytics, including Google Analytic
 - TDD
 - Problem solving
 
+#### Blog post:
+Whilst at Makers Academy, I wrote this post re: how to make the best of pairing - ["Pairing - A Manifesto"](https://medium.com/@_chris_russell/pairing-a-manifesto-ea6d92d83d78)
+
 #### Statistics - Open University (Sept 2016 to May 2017)
 
 - Summarising data/examining relationships
