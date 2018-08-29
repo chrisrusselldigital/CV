@@ -20,7 +20,7 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 
 ## Education
 
-#### Makers Academy (Graduated August 2018)
+#### Makers Academy (May 2018 to Aug 2018)
 
 - Ruby/Rails
 - TDD
