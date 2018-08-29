@@ -15,11 +15,12 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 - Sinatra
 - Github
 - Pairing
+- Building software in teams
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
 
 ## Education
 
-#### Makers Academy (Presently pre-course)
+#### Makers Academy (Graduated August 2018)
 
 - Ruby/Rails
 - TDD
