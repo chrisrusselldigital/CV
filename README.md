@@ -4,7 +4,7 @@
 
 I'm a passionate digital professional with a breadth and depth of experience. Having completed a 12 intensive software development at Makers Academy, I'm now looking for my first role.
 
-Previously my career has focused on digital marketing, including Adwords, SEO and email. Over time, I found myself specialising more and more in analytics and data, as well as the accompanying business change & strategy. Working with developers day-to-day (and having build my first webpage back in 1996) I could no longer resist the urge to make things.
+Previously my career has focused on digital Analytics, including Google Analytics & Tag Manager. Prior to that I worked in Digital Marketing. Working with developers day-to-day (and having build my first webpage back in 1996) I could no longer resist the urge to make software.
 
 ## Skills
 
