@@ -18,6 +18,12 @@ Previously my career has focused on digital marketing, including Adwords, SEO an
 - Building software in teams
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
 
+#### Selected example repos
+
+- ["Spell the words"](https://github.com/chrisrusselldigital/spell-the-words) A simple terminal app I made game my daughter used to help her learn to spell her school words
+- [Rock,Paper,Scissors](https://github.com/chrisrusselldigital/rps-challenge) Built in Sinatra
+
+
 ## Education
 
 #### Makers Academy (May 2018 to Aug 2018)
