@@ -30,6 +30,8 @@ Previously my career has focused on digital Analytics, including Google Analytic
 - ["Chitter"](https://github.com/chrisrusselldigital/chitter-challenge) Built using Sinatra, to mimic Twitter
 - ["PetBook"](http://petbook-acebook.herokuapp.com/) A Facebook clone, built using Ruby on Rails. Link points to the live Heroku app
 
+#### Blog post:
+Whilst at Makers Academy, I wrote this post re: how to make the best of pairing - ["Pairing - A Manifesto"](https://medium.com/@_chris_russell/pairing-a-manifesto-ea6d92d83d78)
 
 ## Education
 
@@ -38,9 +40,6 @@ Previously my career has focused on digital Analytics, including Google Analytic
 - Ruby/Rails
 - TDD
 - Problem solving
-
-#### Blog post:
-Whilst at Makers Academy, I wrote this post re: how to make the best of pairing - ["Pairing - A Manifesto"](https://medium.com/@_chris_russell/pairing-a-manifesto-ea6d92d83d78)
 
 #### Statistics - Open University (Sept 2016 to May 2017)
 
