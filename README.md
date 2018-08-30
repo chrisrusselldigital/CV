@@ -15,12 +15,10 @@ Previously my career has focused on digital Analytics, including Google Analytic
 - Ruby
 - Ruby on Rails
 - Sinatra
-- Github
 - SQL
-- Pairing
-- Building software in teams
+- Pairing/Building software in teams
 - [6Kyu](https://www.codewars.com/users/chrisrusselldigital) on Codewars
-- Javascript with Jasmine
+- Basic Javascript using Jasmine
 - HTML/CSS
 
 #### Selected example projects/repos
