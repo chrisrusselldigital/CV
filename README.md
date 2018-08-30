@@ -72,7 +72,7 @@ Whilst at Makers Academy, I wrote this post re: how to make the best of pairing 
 **Ministry of Justice (Apr 2017 to Aug 2017)**</br>
 *Head of Performance (contract)*
 
-**Pension Wise (a divsion of DWP) (Aug 2016 to Apr 2017)**</br>
+**Pension Wise (a division of DWP) (Aug 2016 to Apr 2017)**</br>
 *Senior digital analyst*
 
 **Agilesphere (on behalf of the MoJ) (Feb 2016 to Jul 2016)**</br>
