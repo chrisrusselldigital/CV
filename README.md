@@ -28,7 +28,7 @@ Previously my career has focused on digital Analytics, including Google Analytic
 - ["Spell the words"](https://github.com/chrisrusselldigital/spell-the-words) A simple terminal app I made game my daughter used to help her learn to spell her school words
 - [Rock,Paper,Scissors](https://github.com/chrisrusselldigital/rps-challenge) Built in Sinatra
 - ["Chitter"](https://github.com/chrisrusselldigital/chitter-challenge) Built using Sinatra, to mimic Twitter
--["PetBook"](http://petbook-acebook.herokuapp.com/) A Facebook clone, built using Ruby on Rails. Link points to the live Heroku app
+- ["PetBook"](http://petbook-acebook.herokuapp.com/) A Facebook clone, built using Ruby on Rails. Link points to the live Heroku app
 
 
 ## Education
